@@ -1,0 +1,49 @@
+#background{
+    min-height: 100%;
+    width: 100%;
+    height:auto;
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index:-1;
+}
+
+.campo{
+    display:block;
+}
+
+#submit{
+    position:absolute;
+    right:14%;
+    top:21%;
+    height:15.5em;
+    width: 10em
+}
+
+div.contenedor{
+    position:absolute;
+    top:20%;
+    left:21%;
+    padding:2em; ;
+    background-color: #500;
+    border: solid;
+    width: 21em;
+    font-size: 1.6em;
+}
+
+div#logueo{
+   padding-right: 2em;
+   padding-left: 2em;
+   padding-top: 1.4em;
+   padding-bottom: 1.2em;
+   border:solid;
+   background-color: #700000;    
+}
+
+
+
+a {
+ font-size: 0.5em;
+ color:#F8A;
+ display: block;
+}

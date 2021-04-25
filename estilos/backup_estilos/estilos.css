@@ -1,0 +1,46 @@
+body {
+	background-image:url('recursos/Fondo1.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	margin:1em
+}
+div.compIzq {
+	float:left
+}
+div.compDer {
+	float:right
+}
+div#logueo {
+	background-color:#500000;
+	color:#fff;
+	padding-left:30px;
+	padding-top:10px;
+	border:solid;
+	border-color:#6f0000;
+	border-width:10px;
+	height:10em;
+	width:380px
+}
+
+div#sublogin{
+	
+}
+
+div#sublogin a{
+	float: left;
+	font-size: 0.6em;
+	color: white;
+	font-weight: bold;
+}
+
+input#submit {
+	position:relative;
+	right:10px;
+	height:110px
+}
+#menu {
+	float:right
+}
+#menu a {
+	display:block
+}
